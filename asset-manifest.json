@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/diagnal_movie_search/static/css/main.4659ccbd.chunk.css",
+    "main.js": "/diagnal_movie_search/static/js/main.bff03cd7.chunk.js",
+    "main.js.map": "/diagnal_movie_search/static/js/main.bff03cd7.chunk.js.map",
+    "runtime-main.js": "/diagnal_movie_search/static/js/runtime-main.74741ab1.js",
+    "runtime-main.js.map": "/diagnal_movie_search/static/js/runtime-main.74741ab1.js.map",
+    "static/js/2.ef422c92.chunk.js": "/diagnal_movie_search/static/js/2.ef422c92.chunk.js",
+    "static/js/2.ef422c92.chunk.js.map": "/diagnal_movie_search/static/js/2.ef422c92.chunk.js.map",
+    "index.html": "/diagnal_movie_search/index.html",
+    "static/css/main.4659ccbd.chunk.css.map": "/diagnal_movie_search/static/css/main.4659ccbd.chunk.css.map",
+    "static/js/2.ef422c92.chunk.js.LICENSE.txt": "/diagnal_movie_search/static/js/2.ef422c92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74741ab1.js",
+    "static/js/2.ef422c92.chunk.js",
+    "static/css/main.4659ccbd.chunk.css",
+    "static/js/main.bff03cd7.chunk.js"
+  ]
+}
